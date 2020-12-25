@@ -2,7 +2,7 @@ import pandas as pd
 import lxml.html as lh
 import requests
 
-Url = 'https://www.dylanstocking.com/Portfolio.html'
+Url = 'Inster your website URL'
 
 page = requests.get(Url) 
 
